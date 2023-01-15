@@ -5,6 +5,6 @@
 
 # Some of my hobby projects can be found on my hobby site http://electronic-world.rf.gd
 
-# I gladly accept tips and criticism.
+# Tips and criticism are welcome.
 
 
