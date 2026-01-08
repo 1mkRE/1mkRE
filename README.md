@@ -5,7 +5,7 @@
 
 # My interests include, in particular, the automation of processes using artificial intelligence.
 
-# Some of my hobby projects can be found on my website (https://workflow-automation.rf.gd/) and public projects on my Git account.
+# Some of my hobby projects can be found on my website https://workflow-automation.rf.gd/ and public projects on my Git account.
 # Commercial GitHub projects are private.
 
 # Tipps and criticism are welcome.
